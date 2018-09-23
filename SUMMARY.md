@@ -12,10 +12,7 @@
 ## Ciclo de vida básico
 
 * [Trabalhando com Repositórios](ciclo-de-vida-basico/criando-um-repositorio.md)
-* [Git Add](ciclo-de-vida-basico/git-add.md)
-* [Git Commit](ciclo-de-vida-basico/git-commit.md)
-* [Git Push](ciclo-de-vida-basico/git-push.md)
-* [Git Status](ciclo-de-vida-basico/git-status.md)
+* [Comandos comuns](ciclo-de-vida-basico/comandos-comuns.md)
 * [O que é o .gitignore?](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
 
 ## Dicas e boas práticas
