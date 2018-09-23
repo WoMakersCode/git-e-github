@@ -13,9 +13,9 @@
 
 * [Trabalhando com Repositórios](ciclo-de-vida-basico/criando-um-repositorio.md)
 * [Comandos comuns](ciclo-de-vida-basico/comandos-comuns.md)
-* [O que é o .gitignore?](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
 
 ## Dicas e boas práticas
 
 * [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
+* [O que é o .gitignore?](dicas-boas-praticas/o-que-e-o-.gitignore.md)
 
