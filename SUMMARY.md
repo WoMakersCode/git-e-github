@@ -11,7 +11,7 @@
 
 ## Ciclo de vida básico
 
-* [Repositório](ciclo-de-vida-basico/criando-um-repositorio.md)
+* [Trabalhando com Repositórios](ciclo-de-vida-basico/criando-um-repositorio.md)
 * [Git Add](ciclo-de-vida-basico/git-add.md)
 * [Git Commit](ciclo-de-vida-basico/git-commit.md)
 * [Git Push](ciclo-de-vida-basico/git-push.md)

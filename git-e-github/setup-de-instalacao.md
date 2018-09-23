@@ -6,13 +6,21 @@ Instale o Git no seu computador, através do Terminal para Mac ou Ubuntu e insta
 
 ### Mac
 
-Para instalar no Mac, você precisará ter o [Homebrew](https://brew.sh/index_pt-br) instalado, abrir o Terminal e digitar o comando `$ brew install git`
+Para instalar no Mac, você precisará ter o [Homebrew](https://brew.sh/index_pt-br) instalado, abrir o Terminal e digitar o comando:
+
+```css
+$ brew install git
+```
 
 Após digitar este comando, aperte enter e aguarde a execução da instalação.
 
 ### Ubuntu / Linux
 
-Abra o seu terminal e digite o seguinte comando `$ apt-get install git`
+Abra o seu terminal e digite o seguinte comando
+
+```css
+$ apt-get install git
+```
 
 ### Windows
 
@@ -28,13 +36,17 @@ Configure suas informações de usuário, para que todos os repositórios que vo
 
 * Nome de usuário:
 
-`$ git config --global user.name "[nome]"`
+```css
+$ git config --global user.name "[nome]"
+```
 
 * E-mail da sua conta:
 
-`$ git config --global user.email "[endereco-de-email]"`
+```css
+$ git config --global user.email "[endereco-de-email]"
+```
 
 {% hint style="info" %}
- Lembre-se de substituir a informação entre \[colchetes\] pelos seus dados.
+ Lembre-se de substituir a informação entre `[colchetes]`pelos seus dados.
 {% endhint %}
 

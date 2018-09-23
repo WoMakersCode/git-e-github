@@ -1,10 +1,10 @@
-# Repositório
+# Trabalhando com Repositórios
 
 ## Criar um repositório
 
 É possível versionar um projeto através de um repositório, que em seu computador, basicamente, será uma pasta que terá todos os arquivos do seu projeto. 
 
-```bash
+```css
 $ git init
 ```
 
@@ -47,7 +47,7 @@ Nota: Se você não tiver uma pasta de desenvolvimento, pode ser uma boa idéia 
 
 No tutorial, vou navegar até minha área de trabalho \(Desktop\) e criar uma pasta nova, no momento que estiver clonando o repositório. Para isso, logo após a URL do repositório no GitHub, vou adicionar o nome da pasta.
 
-```bash
+```css
 $ cd Desktop
 $ git clone https://github.com/WoMakersCode/Front-end-Study-Group.git nomedanovapasta 
 ```
