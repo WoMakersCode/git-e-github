@@ -18,13 +18,13 @@
 * [O que é o .gitignore?](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
 * [Hands-on \#2](ciclo-de-vida-basico/hands-on-2.md)
 
-## Dicas e boas práticas
-
-* [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
-
 ## Hands on
 
 * [Exercício 1](hands-on/exercicio-1.md)
 * [Exercício 2](hands-on/exercicio-2.md)
 * [Exercício 3](hands-on/exercicio-3.md)
+
+## Dicas e boas práticas
+
+* [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
 
