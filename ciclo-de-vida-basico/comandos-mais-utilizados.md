@@ -1,4 +1,4 @@
-# Comandos comuns
+# Comandos mais utilizados
 
 ## git status
 

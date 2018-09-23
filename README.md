@@ -14,13 +14,15 @@ Trabalhar com controle de versão é uma habilidade essencial para qualquer dese
 
 Neste curso, você aprenderá sobre:
 
-1. Criando uma conta no GitHub
-2. Setup de instalação
-3. Vocabulário
-4. Trabalhando com repositórios
-5. Ciclo de vida básico
-6. Restringindo arquivos com .gitignore
-7. Dicas de boas práticas
+1. [Criando uma conta e seu primeiro repositório no GitHub](git-e-github/setup.md)
+2. [Setup de instalação](git-e-github/setup-de-instalacao.md)
+3. [Vocabulário](git-e-github/conceitos-e-vocabulario-do-git.md)
+4. [Trabalhando com repositórios](ciclo-de-vida-basico/criando-um-repositorio.md)
+5. [Comandos mais utilizados](ciclo-de-vida-basico/comandos-mais-utilizados.md)
+6. [Trabalhando com branchs](ciclo-de-vida-basico/trabalhando-com-branchs.md)
+7. [Restringindo arquivos com .gitignore](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
+8. [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
+9. [Atividades hands-on](ciclo-de-vida-basico/hands-on-1.md)
 
 ## **Formato do Curso**
 

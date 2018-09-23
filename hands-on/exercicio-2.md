@@ -15,7 +15,7 @@ O Git permite que os usuários adicionem um arquivo [`.gitignore`](../ciclo-de-v
 ### Criando um arquivo não rastreável
 
 1. Acesse a pasta do projeto que você criou no exercício 1 e crie um arquivo chamado `minhas_senhas_secretas.txt`
-2. Abra o terminal e veja se o arquivo está aparecendo como não rastreado e que pode ser adicionado \([dica](../ciclo-de-vida-basico/comandos-comuns.md#git-status)\)
+2. Abra o terminal e veja se o arquivo está aparecendo como não rastreado e que pode ser adicionado \([dica](../ciclo-de-vida-basico/comandos-mais-utilizados.md#git-status)\)
 
 ### Gerando o .gitignore
 
