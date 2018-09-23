@@ -25,4 +25,5 @@
 
 * [Exercício 1](hands-on/exercicio-1.md)
 * [Exercício 2](hands-on/exercicio-2.md)
+* [Exercício 3](hands-on/exercicio-3.md)
 
