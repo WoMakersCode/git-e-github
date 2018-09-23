@@ -16,6 +16,7 @@
 * [Hands-on \#1](ciclo-de-vida-basico/hands-on-1.md)
 * [Trabalhando com branchs](ciclo-de-vida-basico/trabalhando-com-branchs.md)
 * [O que é o .gitignore?](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
+* [Hands-on \#2](ciclo-de-vida-basico/hands-on-2.md)
 
 ## Dicas e boas práticas
 
