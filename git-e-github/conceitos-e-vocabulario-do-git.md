@@ -15,6 +15,15 @@ O versionamento de software é um processo de controle de versões, estabelecido
 
 O repositório é a pasta do projeto. Todo repositório tem uma pasta oculta .git. Isso é o que mostra para o git e para você que existe um repositório naquela pasta.
 
+## Change \(ou Diff\)
+
+O Git mantém o controle de versão rastreando as mudanças ou diferenças entre as versões dos arquivos.Você pode alterar um arquivo fazendo uma das duas coisas:
+
+1. Criação, renomeação ou exclusão de arquivos. 
+2. Inserção ou exclusão de uma linha em um arquivo \(uma linha modificada é uma inserção e uma exclusão\) 
+
+O Git representa inserções ou alterações adicionadas com um `+` e exclusões ou alterações removidas com um `-`
+
 ## Commit
 
 Um commit é um grupo de alterações no código. Toda vez que você quiser "salvar" as alterações feitas por você no repositório, você commita essas mudanças. Um commit contém as alterações que foram feitas nele e uma mensagem descritiva, além de informações meta \(data, autor, etc\).
