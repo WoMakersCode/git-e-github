@@ -35,7 +35,7 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 
 ## **Quem já contribuiu com esse guia**
 
-[Cynthia Zanoni](https://github.com/cyz)
+[Cynthia Zanoni](https://github.com/cyz) <br> 
 [Kamila Santos](https://github.com/Kamilahsantos)
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
