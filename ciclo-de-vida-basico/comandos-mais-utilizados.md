@@ -18,9 +18,7 @@ Depois de adicionar o arquivo a ser rastreado, confirme as alterações a serem 
 $ git commit -m "commit inicial"
 ```
 
-{% hint style="info" %}
 Dica: tente tornar suas mensagens curtas, mas significativas. 
-{% endhint %}
 
 #### Exemplo
 
