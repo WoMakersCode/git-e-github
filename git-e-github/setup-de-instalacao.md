@@ -46,7 +46,5 @@ $ git config --global user.name "[nome]"
 $ git config --global user.email "[endereco-de-email]"
 ```
 
-{% hint style="info" %}
- Lembre-se de substituir a informação entre `[colchetes]`pelos seus dados.
-{% endhint %}
+ *Lembre-se de substituir a informação entre `[colchetes]`pelos seus dados.*
 
