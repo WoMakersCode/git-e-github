@@ -24,9 +24,8 @@ Crie um repositório do GitHub para seu projeto do curso **Desvendando Git e Git
    2. `git commit` para commitar o novo arquivo, sem esquecer de adicionar uma mensagem útil e informativa sobre o que será publicado
    3. `git push` para enviar para o repositório no GitHub
 
-{% hint style="info" %}
-Repita este passo para criar mais duas branchs, chamadas versao02 e versao03, respectivamente.
-{% endhint %}
+
+*Repita este passo para criar mais duas branchs, chamadas versao02 e versao03, respectivamente.*
 
 ### Merge
 
