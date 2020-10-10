@@ -3,7 +3,7 @@
 Estamos atualizando o conteúdo desse guia de git e github e a ajuda da comunidade será essencial para isso!!
 
 ## Com quais assuntos posso contribuir? <br>
-  Você pode ver quais assuntos e exercícios estamos buscando contribuição nas [issues](https://github.com/WoMakersCode/git-e-github/issues) do nosso projeto.
+  Você pode ver quais assuntos e exercícios estamos buscando contribuição nas [issues](https://github.com/WoMakersCode/banco-de-dados/issues do nosso projeto.
   
  ### :question: Como envio um conteúdo para esse guia? <br>
 Para enviar um conteúdo, siga os seguintes passos:
