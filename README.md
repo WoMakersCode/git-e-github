@@ -37,7 +37,8 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 
 [Cynthia Zanoni](https://github.com/cyz) <br> 
 [Kamila Santos](https://github.com/Kamilahsantos) <br> 
-[Caroline Pinheiro](https://github.com/CarolPinheiro)
+[Caroline Pinheiro](https://github.com/CarolPinheiro) <br>
+[Leticia Campos](https://github.com/leticiacamposs2)
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
 
