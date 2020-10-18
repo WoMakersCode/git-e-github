@@ -87,9 +87,10 @@ Abaixo um exemplo de **merge**:
     
 Esse comando fará que o GIT automaticamente crie um commit com o branch atual e todo o conteúdo da branch origem.
 
-Exemplo de um merge local:
+### Exemplo de um merge local:
 
-Após fazer commit das alterações na minha branch, estou apta para fazer merge:
+Após fazer commit das alterações na minha branch de trabalho, estou apta para fazer merge:
+
 ![printsceen de um merge local](../images/hands-on-merge.png)
 
 
