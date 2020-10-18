@@ -75,7 +75,7 @@ Como fazer isso? Através do **merge**, que é quando pegamos um código de uma 
 
 Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda, utilizamos o comando `git merge nome-da-branch-a-ser-mergeada`. 
 
-Abaixo um exemplo de **merge**:
+Abaixo um exemplo completo de **merge**:
 
 Fazer checkout na branch de destino. Minha branch de destino é master, então farei: `git checkout master`.
 	
