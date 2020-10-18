@@ -70,12 +70,17 @@ E sua branch já está disponível remotamente no github.
 ## 5. O que é um merge?
 Estamos entendendo como trabalhar com branchs, mas se quisermos trazer o trabalho que fizermos em uma branch para outra?
 
-Possuo duas branchs em um repositório GIT, uma chamada "ciclo-de-vida" e a outra "master", estou trabalhando na primeira e após a finalização quero trazer o meu trabalho para "master", pois ela é onde deve ser depositado todo o código que funciona.
-Como fazer isso? Através do **merge**, que é quando pegamos um código de uma branch e adicionamos a outra branch.
+Possuo duas branchs em um repositório GIT, uma chamada "ciclo-de-vida" e a outra "master", estou trabalhando na primeira e após a finalização quero trazer o meu trabalho para "master", pois ela é a principal branch e onde deve ser depositado todo o código que funciona.
+Como fazer isso? Através do **merge**, que é quando pegamos um código de uma branch e adicionamos a outra branch, unificando assim as alterações.
 
-Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda utilizamos o comando git merge "nome-da-branch".
-Temos alguns pontos para que seja possível unificar sua branch em outra:
-- Você deve fazer checkout na branch de destino. Por exemplo, minha branch de destino será master, então farei: git checkout master
-- Você deve executar o comando para unificar sua branch na de destino. Como o nome da minha branch é ciclo-de-vida, farei: git merge ciclo-de-vida 
+Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda, utilizamos o comando `git merge nome-da-branch`.
+
+Exemplo de **merge**:
+	
+	git checkout nome-da-branch-destino
+Esse comando faz checkout na branch de destino. Minha branch de destino é master, então farei: `git checkout master`
+	
+	git merge nome-da-branch-a-ser-mergeada 
+Este comando deve ser executado para unificar sua branch na de destino. Como o nome da minha branch é ciclo-de-vida, farei: `git merge ciclo-de-vida`
 
 
