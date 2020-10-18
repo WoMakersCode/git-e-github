@@ -89,7 +89,7 @@ Esse comando fará que o GIT automaticamente crie um commit com o branch atual e
 
 Exemplo de um merge local:
 
-Após fazer commit das alterações na minha branch, estou apta para fazer merge.
+Após fazer commit das alterações na minha branch, estou apta para fazer merge:
 ![printsceen de um merge local](../images/hands-on-merge.png)
 
 
