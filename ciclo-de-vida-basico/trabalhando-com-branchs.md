@@ -69,8 +69,11 @@ Assim que o commit tiver sido feito, basta ir no terminal e digitar:
 E sua branch já está disponível remotamente no github.
 ## 5. O que é um merge?
 Estamos entendendo como trabalhar com branchs, mas se quisermos trazer o trabalho que fizermos em uma branch para outra?
-Por exemplo eu Ester, possuo duas branchs em um repositório GIT chamado "ciclo-de-vida" e a branch "master", estou escrevendo sobre trabalhando na primeira, após a finalização devo trazer o meu trabalho para branch principal "master", pois ela é a principal e é onde queremos depositar todo o código que funciona. Como fazer isso? Através do **merge**.
-Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda utilizamos o merge.
+
+Possuo duas branchs em um repositório GIT, uma chamada "ciclo-de-vida" e a outra "master", estou trabalhando na primeira e após a finalização quero trazer o meu trabalho para "master", pois ela é onde deve ser depositado todo o código que funciona.
+Como fazer isso? Através do **merge**, que é quando pegamos um código de uma branch e adicionamos a outra branch.
+
+Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda utilizamos o comando git merge "nome-da-branch".
 Temos alguns pontos para que seja possível unificar sua branch em outra:
 - Você deve fazer checkout na branch de destino. Por exemplo, minha branch de destino será master, então farei: git checkout master
 - Você deve executar o comando para unificar sua branch na de destino. Como o nome da minha branch é ciclo-de-vida, farei: git merge ciclo-de-vida 
