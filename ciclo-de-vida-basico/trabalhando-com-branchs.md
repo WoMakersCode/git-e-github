@@ -71,11 +71,11 @@ E sua branch já está disponível remotamente no github.
 Estamos entendendo como trabalhar com branchs, mas se quisermos trazer o trabalho que fizermos em uma branch para outra?
 
 Possuo duas branchs em um repositório GIT, uma chamada "ciclo-de-vida" e a outra "master", estou trabalhando na primeira e após a finalização quero trazer o meu trabalho para "master", pois ela é a principal branch e onde deve ser depositado todo o código que funciona.
-Como fazer isso? Através do **merge**, que é quando pegamos um código de uma branch e adicionamos a outra branch, unificando assim as alterações.
+Como fazer isso? Através do **merge**, que é quando pegamos um código de uma branch e adicionamos a outra branch, unificando assim as alterações. É importante para manter sua branch atualizada ou para levar seu código para a branch principal.
 
-Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda, utilizamos o comando `git merge nome-da-branch-a-ser-mergeada`. 
+Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja adicionado a segunda, utilizamos o comando `git merge nome-da-branch-a-ser-mergeada` na branch de destino. 
 
-Abaixo um exemplo completo de **merge**:
+Abaixo um exemplo de **merge**:
 
 1º Fazer checkout na branch de destino. Minha branch de destino é master, então farei: `git checkout master`.
 	
@@ -86,5 +86,8 @@ Abaixo um exemplo completo de **merge**:
 	git merge nome-da-branch-a-ser-mergeada 
     
 Esse comando fará que o GIT automaticamente crie um commit com o branch atual e todo o conteúdo da branch origem.
+
+Exemplo de um merge local:
+
 
 
