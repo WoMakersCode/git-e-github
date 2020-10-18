@@ -77,12 +77,14 @@ Para unificar duas branchs, ou seja, fazer com que o conteúdo da primeira seja 
 
 Abaixo um exemplo completo de **merge**:
 
-Fazer checkout na branch de destino. Minha branch de destino é master, então farei: `git checkout master`.
+1º Fazer checkout na branch de destino. Minha branch de destino é master, então farei: `git checkout master`.
 	
 	git checkout nome-da-branch-destino
 	
-Executar o merge para unificar sua branch na de destino. Como o nome da minha branch é ciclo-de-vida, farei: `git merge ciclo-de-vida`.
+2º Executar o merge para unificar sua branch na de destino. Como o nome da minha branch é ciclo-de-vida, farei: `git merge ciclo-de-vida`.
 
 	git merge nome-da-branch-a-ser-mergeada 
+    
+Esse comando fará que o GIT automaticamente crie um commit com o branch atual e todo o conteúdo da branch origem.
 
 
