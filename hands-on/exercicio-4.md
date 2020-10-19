@@ -84,17 +84,17 @@ $ git push origin minha-branch
 ### Fazendo uma pull request
 
 Acesse o seu repositório no GitHub
-![](.gitbook/assets/differents-commits.png)
+![](../.gitbook/assets/differents-commits.png)
 1. Peça um pull request para suas alterações.
 
 Pedindo um pull request.
-![](.gitbook/assets/asking-pull-request.png)
+![](../.gitbook/assets/asking-pull-request.png)
 1. Certifique-se do direcionamento do seu pull request, para onde vai e de onde vem o código.
 2. Verifique as mudanças que estão vínculadas.
 3. Crie o pull request.
 
 Criando o pull request.
-![](.gitbook/assets/create-pull-request.png)
+![](../.gitbook/assets/create-pull-request.png)
 1. Coloque um título simples mas objetivo
 2. Crie uma descrição explicita do que foi alterado ou criado.
 3. Vefique as mudanças novamente.
