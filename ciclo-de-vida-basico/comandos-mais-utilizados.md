@@ -2,6 +2,12 @@
 
 ## git status
 
+Verifica o status/condição da branch em que você está trabalhando, arquivos modificados, criados e exluidos
+
+```css
+$ git status
+```
+
 ## git add
 
 Após criar um arquivo, adicione o arquivo no rastreamento do Git.No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
@@ -18,9 +24,7 @@ Depois de adicionar o arquivo a ser rastreado, confirme as alterações a serem 
 $ git commit -m "commit inicial"
 ```
 
-{% hint style="info" %}
 Dica: tente tornar suas mensagens curtas, mas significativas. 
-{% endhint %}
 
 #### Exemplo
 

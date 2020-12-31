@@ -41,9 +41,7 @@ Clonar um repositório já existente é, literalmente, fazer uma cópia dele em 
 
 3. No Terminal, navegue até sua pasta de desenvolvimento.
 
-{% hint style="info" %}
-Nota: Se você não tiver uma pasta de desenvolvimento, pode ser uma boa idéia criar uma onde você pode armazenar todos os diretórios rastreados pelo `git` em um só lugar.
-{% endhint %}
+*Nota: Se você não tiver uma pasta de desenvolvimento, pode ser uma boa idéia criar uma onde você pode armazenar todos os diretórios rastreados pelo `git` em um só lugar.*
 
 No tutorial, vou navegar até minha área de trabalho \(Desktop\) e criar uma pasta nova, no momento que estiver clonando o repositório. Para isso, logo após a URL do repositório no GitHub, vou adicionar o nome da pasta.
 

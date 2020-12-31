@@ -6,15 +6,13 @@ description: O que são as ferramentas de versionamento e porque utilizar em seu
 
 ## Git
 
-{% hint style="success" %}
 O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
-{% endhint %}
 
 ## GitHub
 
-{% hint style="success" %}
+
 **GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadoras e programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
-{% endhint %}
+
 
 ## Por que utilizar em seus projetos?
 

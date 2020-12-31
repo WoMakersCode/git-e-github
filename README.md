@@ -24,11 +24,22 @@ Neste curso, você aprenderá sobre:
 8. [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
 9. [Atividades hands-on](ciclo-de-vida-basico/hands-on-1.md)
 
-## **Formato do Curso**
 
 ## **Sobre a nossa comunidade**
 
 A WoMakersCode é uma **comunidade** sem fins lucrativos, que busca o **protagonismo feminino na tecnologia**, através do desenvolvimento profissional e econômico. Oferecemos workshops, eventos e debates com foco no mercado de Tecnologia, orientados para capacitação técnica e fortalecimento de habilidades pessoais. Nossos eventos são realizados em diversas cidades do país, promovendo a conscientização da igualdade de gênero e buscando compreender as causas sub-representação feminina neste mercado de TI.
+
+
+## **Contribua para esse guia**
+Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/git-e-github/blob/master/CONTRIBUTING.md)
+
+## **Quem já contribuiu com esse guia**
+
+[Cynthia Zanoni](https://github.com/cyz) <br> 
+[Kamila Santos](https://github.com/Kamilahsantos) <br> 
+[Caroline Pinheiro](https://github.com/CarolPinheiro) <br>
+[Leticia Campos](https://github.com/leticiacamposs2) <br>
+[Ester Gama](https://github.com/esterfania)
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
 
