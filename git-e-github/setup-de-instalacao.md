@@ -19,8 +19,10 @@ Após digitar este comando, aperte enter e aguarde a execução da instalação.
 Abra o seu terminal e digite o seguinte comando
 
 ```css
-$ apt-get install git
+$ apt install git
 ```
+
+Para mais detalhes de instalação no Linux, [clique aqui](setup-instalacao-linux.md).
 
 ### Windows
 
