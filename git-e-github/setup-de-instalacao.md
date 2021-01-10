@@ -22,13 +22,13 @@ Abra o seu terminal e digite o seguinte comando
 $ apt install git
 ```
 
-Para mais detalhes de instalação no Linux, [clique aqui](setup-instalacao-linux.md).
+Dica: se você estiver com algum problema, tente seguir nosso [passo a passo detalhado](setup-instalacao-linux.md).
 
 ### Windows
 
 Para instalar no Windows, faça download do instalador em: [http://git-scm.com/downloads](http://git-scm.com/downloads)
 
-Dica: se você estiver com algum problema, tente seguir este[ passo a passo detalhado](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git).
+Dica: se você estiver com algum problema, tente seguir nosso [passo a passo detalhado](setup-instalacao-windows.md).
 
 Dica: Para verificar se o git já está instalado, abra o Terminal e digite `$ git`
 
