@@ -39,7 +39,8 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 [Kamila Santos](https://github.com/Kamilahsantos) <br> 
 [Caroline Pinheiro](https://github.com/CarolPinheiro) <br>
 [Leticia Campos](https://github.com/leticiacamposs2) <br>
-[Ester Gama](https://github.com/esterfania)
+[Ester Gama](https://github.com/esterfania) <br>
+[Danielle Farias](https://github.com/danielle8farias/)
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
 
