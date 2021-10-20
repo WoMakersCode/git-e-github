@@ -41,6 +41,7 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 [Leticia Campos](https://github.com/leticiacamposs2) <br>
 [Ester Gama](https://github.com/esterfania) <br>
 [Letícia Vargas](https://github.com/leticiavargas)
+[Danielle Farias](https://github.com/danielle8farias/)
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
 
