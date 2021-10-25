@@ -28,4 +28,4 @@
 
 * [Dicas de boas práticas](dicas-boas-praticas/dicas-de-boas-praticas.md)
 * [Explicação sobre rebase](dicas-boas-praticas/explicação-sobre-rebase.md)
-
+* [Explicação sobre cherry pick](dicas-boas-praticas/explicação-sobre-cherry-pick.md)
