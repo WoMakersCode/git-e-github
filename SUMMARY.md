@@ -31,3 +31,4 @@
 * [Explicação sobre squash](dicas-boas-praticas/explicação-sobre-squash.md)
 * [Explicação sobre cherry pick](dicas-boas-praticas/explicação-sobre-cherry-pick.md)
 
+
