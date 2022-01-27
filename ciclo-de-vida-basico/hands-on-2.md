@@ -49,7 +49,7 @@ Você provavelmente está acostumado com esses comandos. Adicione os arquivos qu
 
 ```
 git add .
-git commit -m "Ajustando alguns erros gramáticais no arquivo readme"
+git commit -m "Ajustando alguns erros gramaticais no arquivo readme"
 ```
 
 A única diferença é o ramo para o qual você está empurrando. Você provavelmente costuma enviar `push` para master, mas, neste caso, estamos enviando para o branch com o nome que você criou na etapa 4.
