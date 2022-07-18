@@ -2,7 +2,7 @@
 
 O **squash** é um recurso utilizado para combinar commits. É um comando que tem por objetivo organizar o histórico de commits que pode estar poluído com uma série de pequenos commits realizados ao longo do desenvolvimento.
 
-Com o **squash** mudamos o histórico dos commits agrupando de uma forma mais significativa as modificações realizadas.
+Com o **squash** mudamos o histórico dos commits agrupando, de uma forma mais significativa, as modificações realizadas.
 
 ### Como realizar um squash commit
 
