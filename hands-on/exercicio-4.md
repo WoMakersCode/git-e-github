@@ -100,4 +100,4 @@ Criando o pull request.
 3. Vefique as mudanças novamente.
 4. CRIE O PULL REQUEST. 
 
-Parabéns, o seu código já está na lista para ser mergado com o repositório principal! :heart:
+Parabéns, o seu código já está na lista para ser mergeado com o repositório principal! :heart:
