@@ -1,10 +1,10 @@
 # Hands-on: Como fazer um fork e contribuir com outros projetos
 
-Um fork do GitHub é uma cópia de um repositório (repo) que fica em sua conta. Depois de fazer um fork (bifurcar) um repositório, você poderá editar o conteúdo de seu repositório bifurcado sem afetar o repositório principal. Quando desejar, poderá enviar suas alterações para o repositório principal.
+Um fork do GitHub é uma cópia de um repositório (repo) que fica em sua conta. Depois de fazer um fork (bifurcar) de um repositório, você poderá editar o conteúdo de seu repositório bifurcado sem afetar o repositório principal. Quando desejar, poderá enviar suas alterações para o repositório principal.
 
 ## Criando o fork
 
-Supondo que você esteja usando o GitHub, essa etapa é fácil. Apenas encontre o repositório para o qual você está contribuindo e pressione o botão Fork no canto superior esquerdo. Isso criará uma cópia exata do repositório (e todos os seus ramos) com seu próprio nome de usuário.
+Supondo que você esteja usando o GitHub, essa etapa é fácil. Apenas encontre o repositório para o qual você está contribuindo e pressione o botão Fork no canto superior direito. Isso criará uma cópia exata do repositório (e todos os seus ramos) com seu próprio nome de usuário.
 
 ![Repositório no GitHub com o botão FORK destacado em amarelo](../images/hands-on-fork.PNG)
 
@@ -20,11 +20,11 @@ git clone https://github.com/cyz/data-science-bootcamp.git
 
 ## Mantendo seu repositório bifurcado com o repositório principal
 
-Depois de fazer o fork de um repositório, as alterações no repositório original (ou "upstream") não são enviadas para o seu fork. Precisamos dizer ao novo repositório para seguir as mudanças feitas no upstream para mantê-lo atualizado por meio de controles remotos .
+Depois de fazer o fork de um repositório, as alterações no repositório original (ou "upstream") não são enviadas para o seu fork. Precisamos dizer ao novo repositório para seguir as mudanças feitas no upstream para mantê-lo atualizado por meio de controles remotos.
 
 Alterne os diretórios para o repositório bifurcado que você acabou de clonar e execute os seguintes comandos. Substitua a última parte da primeira linha pelo URL do clone do repositório **original** - semelhante ao modo como você pegou o URL na etapa 2, mas **não é** aquele com seu nome de usuário.
 
-Isso vincula a bifurcação de volta ao repositório original como um remoto, que nomearemos ``upstream`` depois o buscaremos.
+Isso vincula a bifurcação de volta ao repositório original como um remoto, que nomearemos ``upstream``, depois o buscaremos.
 
 ```
 git remote add --track master upstream https://github.com/WoMakersCode/data-science-bootcamp.git
@@ -49,7 +49,7 @@ Você provavelmente está acostumado com esses comandos. Adicione os arquivos qu
 
 ```
 git add .
-git commit -m "Ajustando alguns erros gramáticais no arquivo readme"
+git commit -m "Ajustando alguns erros gramaticais no arquivo readme"
 ```
 
 A única diferença é o ramo para o qual você está empurrando. Você provavelmente costuma enviar `push` para master, mas, neste caso, estamos enviando para o branch com o nome que você criou na etapa 4.

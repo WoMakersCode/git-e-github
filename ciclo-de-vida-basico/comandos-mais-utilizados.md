@@ -2,7 +2,7 @@
 
 ## git status
 
-Verifica o status/condição da branch em que você está trabalhando, arquivos modificados, criados e exluidos
+Verifica o status/condição da branch em que você está trabalhando, arquivos modificados, criados e exluídos
 
 ```css
 $ git status
@@ -10,7 +10,7 @@ $ git status
 
 ## git add
 
-Após criar um arquivo, adicione o arquivo no rastreamento do Git.No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
+Após criar um arquivo, adicione o arquivo no rastreamento do Git. No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
 
 ```css
 $ git add index.html
