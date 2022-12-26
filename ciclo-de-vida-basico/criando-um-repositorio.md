@@ -8,7 +8,7 @@
 $ git init
 ```
 
-Este comando, irá criar uma pasta oculta `.git`na raiz do projeto e nela, ficarão registradas as informações relacionadas ao controle do versionamento.
+Este comando, irá criar uma pasta `.git` na raiz do projeto e nela, ficarão registradas as informações relacionadas ao controle do versionamento.
 
 ## Conectar um repositório local com a nuvem do GitHub
 
