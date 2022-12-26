@@ -54,5 +54,3 @@ Abra a pasta do seu projeto, crie uma pasta chamada `imagens`, procure no Google
 ```
 
 Agora, repita os passos 2 e 3 do [item 2](exercicio-1.md#2-subindo-seu-projeto-para-o-github).  
-
-

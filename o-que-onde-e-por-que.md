@@ -1,12 +1,12 @@
 ---
-description: O que são as ferramentas de versionamento e porque utilizar em seus projetos.
+description: O que são as ferramentas de versionamento e por que utilizar em seus projetos.
 ---
 
 # O que é, o que é?
 
 ## Git
 
-O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
+O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
 
 ## GitHub
 

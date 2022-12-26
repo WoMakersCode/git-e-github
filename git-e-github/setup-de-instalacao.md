@@ -2,7 +2,7 @@
 
 ## Instalando o Git
 
-Instale o Git no seu computador, através do Terminal para Mac ou Ubuntu e instalador para Windows.
+Instale o Git, no seu computador, através do Terminal para Mac ou Ubuntu e instalador para Windows.
 
 ### Mac
 
@@ -34,7 +34,7 @@ Dica: Para verificar se o git já está instalado, abra o Terminal e digite `$ g
 
 ## Configurando sua conta em seu computador
 
-Configure suas informações de usuário, para que todos os repositórios que você irá trabalhar localmente estejam atrelados à sua conta. Para isso, abra o Terminal e digite os seguintes comandos:
+Configure suas informações de usuário, para que todos os repositórios em que você irá trabalhar localmente estejam atrelados à sua conta. Para isso, abra o Terminal e digite os seguintes comandos:
 
 * Nome de usuário:
 
@@ -49,4 +49,3 @@ $ git config --global user.email "[endereco-de-email]"
 ```
 
  *Lembre-se de substituir a informação entre `[colchetes]`pelos seus dados.*
-
