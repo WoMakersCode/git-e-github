@@ -7,7 +7,7 @@ Após baixar o **instalador** execute-o para **começar a instalação**.
 
 ![instalador do git](../images/p0001-0.png)
 
-A primeira tela nos é apresentado os **termos da licença de utilização** do **Git**. 
+Na primeira tela nos são apresentados os **termos da licença de utilização** do **Git**. 
 
 Basta clicar em **Next**.
 
@@ -17,9 +17,9 @@ A tela seguinte é sobre o **local de instalação**. Você pode alterá-la, cas
 
 ![local instalação](../images/p0001-2.png)
 
-Na próxima tela, o instalador oferece a possibilidade de selecionar os **componentes** que queremos que seja instalado. Escolha os **componentes** de sua preferência e clique em **Next**.
+Na próxima tela, o instalador oferece a possibilidade de selecionar os **componentes** que queremos que sejam instalados. Escolha os **componentes** de sua preferência e clique em **Next**.
 
-Abaixo em exemplo de como prefiro os meus:
+Abaixo um exemplo de como prefiro os meus:
 
 ![componentes](../images/p0001-3.png)
 

@@ -6,9 +6,9 @@ Uma boa prática durante o desenvolvimento é a realização de commits a cada a
 
 Assim, ao utilizar o **rebase** podemos modificar o histórico do repositório, editando as mensagens, combinando vários commits e até excluindo commits que não são mais necessários no repositório.
 
-O principal motivo para a utilização do **rebase** está relacionado a manutenção de um histórico linear do projeto, com commits significativos que fornecem informações relevantes sobre as features implementadas.
+O principal motivo para a utilização do **rebase** está relacionado à manutenção de um histórico linear do projeto, com commits significativos que fornecem informações relevantes sobre as features implementadas.
 
-**Importante!!** O **rebase** mexe com toda a estrutura das branchs envolvidas, reescrevendo histórico de commits e unificando informações. Assim, toda processo de rebasing deve ser feito com muito cuidado para evitar perdas ao longo do processo, principalmente se o repositório estiver sendo utilizado por várias pessoas de forma concomitante.
+**Importante!!** O **rebase** mexe com toda a estrutura das branchs envolvidas, reescrevendo histórico de commits e unificando informações. Assim, todo processo de rebasing deve ser feito com muito cuidado para evitar perdas ao longo do processo, principalmente se o repositório estiver sendo utilizado por várias pessoas de forma concomitante.
 
 ### Como realizar um rebase em uma branch
 
@@ -30,7 +30,7 @@ Com este comando você irá realizar um **rebase** de todos os commits da `outra
 
 ### E se surgirem conflitos?
 
-Ao realizar um **rebase** estamos modificando o histórico de commits da branch, logo podemos esbarrar em commits que modificaram um mesmo arquivo. Quando essa situação acontece temos um conflito que o Git precisará de auxilio para resolver.
+Ao realizar um **rebase** estamos modificando o histórico de commits da branch, logo podemos esbarrar em commits que modificaram um mesmo arquivo. Quando essa situação acontece temos um conflito que o Git precisará de auxílio para resolver.
 
 Caso existam conflitos o Git irá mostrar qual o commit que precisa de atenção. Você terá as seguintes opções:
 

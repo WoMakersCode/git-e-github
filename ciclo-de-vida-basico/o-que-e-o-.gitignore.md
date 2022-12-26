@@ -2,7 +2,7 @@
 
 Às vezes, há arquivos sensíveis \(exemplo: senhas\) ou que são irrelevantes e que você não deseja versionar \(exemplo: node\_module\).
 
-O Git usa um arquivo oculto chamado `.gitignore` para indicar quais arquivos ou tipos de arquivos \(exemplo:  _.pkl,  .ipynb\_checkpoints_\) não devem ser rastreados para o versionamento. Depois de adicionar nomes de arquivos ao arquivo `.gitignore`, as alterações feitas nos arquivos que correspondem a esses nomes não serão rastreadas.
+O Git usa um arquivo oculto chamado `.gitignore` para indicar quais arquivos ou tipos de arquivos \(exemplo:  _.pkl,  .ipynb\_checkpoints_\) não devem ser rastreados para o versionamento. Depois de adicionar o(s) nome(s) do(s) arquivo(s) ao arquivo `.gitignore`, as alterações feitas nos arquivos que correspondem a esses nomes não serão rastreadas.
 
 Exemplo:
 

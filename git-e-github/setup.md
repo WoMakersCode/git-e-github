@@ -20,7 +20,7 @@ Repositório é um diretório onde os arquivos do seu projeto ficam armazenados.
 
 ### Iniciando
 
-1. No canto superior á direita na página, clique no menu <strong>+</strong> e selecione a opção <strong>"New repository"</strong> (Novo repositório)
+1. No canto superior direito da página, clique no menu <strong>+</strong> e selecione a opção <strong>"New repository"</strong> (Novo repositório)
 
 ![Print do menu de criação de repositório no GitHub](../.gitbook/assets/repo-create.png)
 

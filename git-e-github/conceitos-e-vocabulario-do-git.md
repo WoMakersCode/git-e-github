@@ -17,7 +17,7 @@ O repositório é a pasta do projeto. Todo repositório tem uma pasta oculta .gi
 
 ## Change \(ou Diff\)
 
-O Git mantém o controle de versão rastreando as mudanças ou diferenças entre as versões dos arquivos.Você pode alterar um arquivo fazendo uma das duas coisas:
+O Git mantém o controle de versão rastreando as mudanças ou diferenças entre as versões dos arquivos. Você pode alterar um arquivo fazendo uma das duas coisas:
 
 1. Criação, renomeação ou exclusão de arquivos. 
 2. Inserção ou exclusão de uma linha em um arquivo \(uma linha modificada é uma inserção e uma exclusão\) 
@@ -54,9 +54,4 @@ O fork é como um clone, porém dentro do github. Isso quer dizer que o reposit�
 
 ## Pull Request
 
-Um pull request é um pedido que se faz ao dono do repositório para que esse atualize o código dele com o seu código. Ou seja, você pede para que o dono do projeto ao qual você quer contribuir adicione suas modificações ao projeto oficial.
-
-
-
-
-
+Um pull request é um pedido que se faz ao dono do repositório para que este atualize o código dele com o seu código. Ou seja, você pede para que o dono do projeto ao qual você quer contribuir adicione suas modificações ao projeto oficial.

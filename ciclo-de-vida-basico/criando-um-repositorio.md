@@ -8,11 +8,11 @@
 $ git init
 ```
 
-Este comando, irá criar uma pasta `.git`na raiz do projeto e nela, ficarão registradas as informações relacionadas ao controle do versionamento.
+Este comando, irá criar uma pasta oculta `.git`na raiz do projeto e nela, ficarão registradas as informações relacionadas ao controle do versionamento.
 
 ## Conectar um repositório local com a nuvem do GitHub
 
-Se você já está trabalhando em um projeto que ainda não está versionado, você  pode criar um repositório no GitHub e conectar seus arquivos locais com o GitHub. Para adicionar o rastreamento remoto, use o comando `git remote add`no terminal, no diretório em que seu repositório está armazenado.
+Se você já está trabalhando em um projeto que ainda não está versionado, você  pode criar um repositório no GitHub e conectar seus arquivos locais com o GitHub. Para adicionar o rastreamento remoto, use o comando `git remote add` no terminal, no diretório em que seu repositório está armazenado.
 
 ```javascript
 /* navegando até a pasta */
