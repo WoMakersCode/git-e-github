@@ -12,3 +12,6 @@ Sempre, logo depois de fazer um commit.
 
 Você precisa pelo menos de um título descritivo. Esta é uma parte importante da documentação do código \(especialmente em um ambiente de desenvolvimento em time\).
 
+###Qual devo fazer um pull?
+
+Quando tem alguma atualização no repositório remoto e no local não está atualizado.
