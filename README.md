@@ -3,8 +3,10 @@ description: >-
   Este é um curso rápido e prático para você aprender a utilizar controle de
   versão em seus projetos.
 ---
-
 # Desvendando Git e GitHub
+
+
+
 
 ![](.gitbook/assets/screen-shot-2018-09-22-at-20.22.57.png)
 
