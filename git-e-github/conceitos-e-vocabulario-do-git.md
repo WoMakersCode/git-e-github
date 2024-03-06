@@ -55,3 +55,10 @@ O fork é como um clone, porém dentro do github. Isso quer dizer que o reposit�
 ## Pull Request
 
 Um pull request é um pedido que se faz ao dono do repositório para que este atualize o código dele com o seu código. Ou seja, você pede para que o dono do projeto ao qual você quer contribuir adicione suas modificações ao projeto oficial.
+
+##Reset
+
+O comando Reset tem como função primária desfazer as alterações realizadas localmente, resetando o estado de um repositório para um commit anterior. Temos 3 formas de realizar este comando:
+- git reset --soft: move o ponteiro HEAD para um determinado commit, mantendo suas alterações na área de stage e/ou no diretório de working. É a mais segura.
+- git reset --mixed: move o ponteiro HEAD para um determinado commit, removendo as alterações na área de stage, mas mantendo-as no diretório de working
+- git reset --hard: o mais perigoso dos tipos de reset, e deve ser realizado com muito cuidado. Este comando assim como os outros, move o ponteiro HEAD para um commit específico, porém descarta todas as alterações, tanto da área de stage quanto do diretório de woking
