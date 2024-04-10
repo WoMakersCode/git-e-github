@@ -1,6 +1,5 @@
 # Table of contents
 
-
 * [Desvendando Git e GitHub](README.md)
 * [O que é, o que é?](o-que-onde-e-por-que.md)
 
