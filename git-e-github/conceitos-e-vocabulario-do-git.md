@@ -1,10 +1,10 @@
+
 ---
 description: >-
   Neste vocabulário reunimos as expressões mais comuns, utilizadas para
   referenciar comandos de versionamento de projetos com Git (que valem para
   GitHub também!)
 ---
-
 # Vocabulário do Git
 
 ## Versionamento
