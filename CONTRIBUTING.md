@@ -1,6 +1,6 @@
 ## Como contribuir com esse repositório?
 
-Estamos atualizando o conteúdo desse guia de git e github e a ajuda da comunidade será essencial para isso!!
+Estamos atualizando o conteúdo desse guia de Git e Github e a ajuda da comunidade será essencial para isso!!
 
 ## Com quais assuntos posso contribuir? <br>
   Você pode ver quais assuntos e exercícios estamos buscando contribuição nas [issues](https://github.com/WoMakersCode/git-e-github/issues) do nosso projeto.

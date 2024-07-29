@@ -18,7 +18,7 @@
 * [O que é o .gitignore?](ciclo-de-vida-basico/o-que-e-o-.gitignore.md)
 * [Hands-on \#2](ciclo-de-vida-basico/hands-on-2.md)
 
-## Hands on
+## Hands-on
 
 * [Exercício 1](hands-on/exercicio-1.md)
 * [Exercício 2](hands-on/exercicio-2.md)
