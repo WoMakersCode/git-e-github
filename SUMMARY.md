@@ -33,4 +33,3 @@
 * [Explicação sobre cherry pick](dicas-boas-praticas/explicação-sobre-cherry-pick.md)
 
 
-# Nova pull request
